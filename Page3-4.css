@@ -7,9 +7,17 @@
     float:  left;  
 }
 
+.Stack3{
+    float: left;
+    width: 200px;
+}
 .Stack2{
     float:  left;
     margin:  5px;
+}
+
+.bunnryo{
+    float: right;
 }
 
 body{
