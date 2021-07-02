@@ -9,7 +9,7 @@
 
 .Stack3{
     float: left;
-    width: 200px;
+    width: 300px;
 }
 .Stack2{
     float:  left;
@@ -22,4 +22,9 @@
 
 body{
     background-color: #fc9;
+}
+
+
+.explain{
+    width: 1000px;
 }
