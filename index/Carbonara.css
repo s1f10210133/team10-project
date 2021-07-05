@@ -1,0 +1,124 @@
+/* Page3-4.cssとCommonBar.cssのコピペです */
+.Stack0{
+    clear: both;
+
+}
+
+.Stack1{
+    float:  left;  
+}
+
+.Stack3{
+    float: left;
+    width: 300px;
+}
+.Stack2{
+    float:  left;
+    margin:  5px;
+}
+
+.bunnryo{
+    float: right;
+}
+
+
+
+.explain{
+    width: 1000px;
+}
+
+body {
+    background-color: #fc9;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 10px 0 10px 0;
+    border-bottom: solid 2px #666666;
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #333333;
+  }
+  
+  p {
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+  
+  li {
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+  
+  #container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .sidebar {
+    width: 20%;
+    margin: 10px 0 10px 0;
+  }
+  
+  .sidebar ul {
+    margin: 0px;
+    padding: 0 10px 0 10px;
+  }
+  
+  .sidebar li a{
+    display: block;
+    margin: 0px 0px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    border-right: solid 2px #cccccc;
+    background-color: #eeeeee;
+  }
+  
+  .sidebar a {
+    color: #444444;
+    text-decoration: none;
+  }
+  
+  .content {
+    width: 80%;
+    margin: 10px 0 10px 0;
+  }
+  
+  
+  .content > p {
+    margin: 0 10px 10px 20px;
+  }
+  
+  .content > ul {
+    margin: 0 10px 10px 20px;
+  }
+  
+  .footer {
+    border-top: solid 1px #cccccc;
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center;
+    background-color: #eeeeee;
+  }
+  
+  
+  #top {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 12px;
+    background-color: #444444;
+    color: #ffffff;
+    text-decoration: none;
+  }  
+
+  #homebutton {
+    z-index: 5;
+    position: absolute;
+    top:0 ;
+    left:0 ;
+  }
