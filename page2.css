@@ -1,5 +1,8 @@
 .box{
    overflow: hidden;
+   margin-left: auto;
+   margin-right: auto;
+   width: 900px;
 }
 .inbox{
     float:left;
